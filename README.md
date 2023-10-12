@@ -1,9 +1,10 @@
 ## CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Binary Characterization in Large-Scale Geological Domains
 
-#### Schematic illustration of the identification and reconstruction of best-matched patterns using the CCW score map in CCWSIM algorithm 
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=70% height=70%>
+#### Schematic illustration of the identification and reconstruction of best-matched patterns using the CCW score map in CCWSIM algorithm.
 
-
+<p align="center">
+  <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=70% height=70%>
+</p>
 ## Results
 #### (a) The channel training image and (b) three unconditional realizations obtained using the proposed method (average CPU time: 6.52 seconds).
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/UnconditionalSim.png" width=70% height=70%>
