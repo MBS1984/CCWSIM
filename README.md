@@ -21,3 +21,18 @@
 
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/ANODIST.png" width=80% height=50%>
 
+### Conditional simulation obtained through the proposed method and MS-CCSIM algorithm using different multi-scale, DWT levels and conditional hard data.
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/Benchmark.png" width=80% height=50%>
+
+### Conditional simulation obtained from the proposed method and MS-CCSIM algorithm using stone wall training image.
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/StoneWallSim.png" width=80% height=50%>
+
+### Average CPU times for five different simulations grid size using TI in Fig. 6a at different DWT levels (1, 2 and 3).
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CpuTime.png" width=80% height=50%>
+
+
+
+
+
+
+
