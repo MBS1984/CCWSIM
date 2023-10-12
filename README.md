@@ -31,7 +31,7 @@
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CpuTime.png" width=40% height=40%>
 
 ### Reference image and (b) one conditional simulation generated using the proposed method (average CPU time 1.06 sec).
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/DenseSim.png" width=60% height=40%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/DenseSim.png" width=80% height=60%>
 
 
 
