@@ -31,7 +31,7 @@
 #### Average CPU times for five different simulations grid size using TI in Fig. 6a at different DWT levels (1, 2 and 3).
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CpuTime.png" width=40% height=40%>
 
-#### Reference image and (b) one conditional simulation generated using the proposed method (average CPU time 1.06 sec).
+#### Reference image and (b) one  simulation obtained using 4000 conditional data using the CCWSIM (average CPU time 1.06 sec).
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/DenseSim.png" width=80% height=60%>
 
 
