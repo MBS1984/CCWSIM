@@ -2,7 +2,7 @@
 ## CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Binary Characterization in Large-Scale Geological Domains
 
 ## CCWSIM algorithm
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=90% height=50%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=60% height=60%>
 
 ## High and low resolution aeromagnetic counterparts 
 <img src="https://github.com/MBS1984/Adapted-SRGAN/blob/main/images/High_low_counterparts.PNG" width=80% height=50%>
