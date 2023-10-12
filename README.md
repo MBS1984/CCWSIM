@@ -10,22 +10,22 @@
 #### (a) The channel training image and (b) three unconditional realizations obtained using the proposed method (average CPU time: 6.52 seconds).
 
 <p align="center">
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/UnconditionalSim.png" width=70% height=70%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/UnconditionalSim.png" width=90% height=90%>
 </p>
 
 #### Conditional simulation using the proposed method: (a) three distinct conditional simulations (b) the ensemble average map obtained from 100 conditional realizations using the proposed method (average CPU time: 2.42 seconds).
 <p align="center">
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/ConditionalSim.png" width=70% height=70%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/ConditionalSim.png" width=90% height=90%>
 </p>
 
 #### (a)The variograms and (b) the probability of connection for the channel training image and 100 realizations obtained from the proposed method.
 <p align="center">
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/Validation.png" width=70% height=70%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/Validation.png" width=90% height=90%>
 </p>
 
 #### Conditional realizations of the Gange delta TI obtained using the proposed method (average CPU time: 7.7 seconds). The blue and red circles mark the positions of the conditional data points
 <p align="center">
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/GangDelatSim.png" width=60% height=40%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/GangDelatSim.png" width=90% height=90%>
 </p>
 
 #### Between and within-realization variability ratio for three resolution levels obtained from the proposed method and MS-CCSIM.
