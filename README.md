@@ -19,7 +19,9 @@
 </p>
 
 #### (a)The variograms and (b) the probability of connection for the channel training image and 100 realizations obtained from the proposed method.
+<p align="center">
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/Validation.png" width=70% height=70%>
+</p>
 
 #### Conditional realizations of the Gange delta TI obtained using the proposed method (average CPU time: 7.7 seconds). The blue and red circles mark the positions of the conditional data points
 <p align="center">
