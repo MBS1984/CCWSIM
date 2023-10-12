@@ -2,10 +2,10 @@
 ## CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Binary Characterization in Large-Scale Geological Domains
 
 ### CCWSIM algorithm
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=60% height=60%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=70% height=70%>
 
 ### (a) The channel training image and (b) three unconditional realizations obtained using the proposed method (average CPU time: 6.52 seconds).
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/UnconditionalSim.png" width=50% height=50%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/UnconditionalSim.png" width=70% height=70%>
 
 ## Results
 Examples of generated aeromagnetic maps in training set: From the left LR, HR and ASRGAN images
