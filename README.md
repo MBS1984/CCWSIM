@@ -10,6 +10,8 @@
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/UnconditionalSim.png" width=70% height=70%>
 
 #### Conditional simulation using the proposed method: (a) three distinct conditional simulations (b) the ensemble average map obtained from 100 conditional realizations using the proposed method (average CPU time: 2.42 seconds)
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/ConditionalSim.png" width=70% height=70%>
+
 #### (a)The variograms and (b) the probability of connection for the channel training image and 100 realizations obtained from the proposed method.
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/Validation.png" width=70% height=70%>
 
