@@ -30,7 +30,7 @@
 
 #### -Analysis of distance (ANODI): Between and within-realization variability ratio for three resolution levels obtained from the proposed method and MS-CCSIM.
 <p align="center">
-<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/ANODIST.png" width=90% height=90%>
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/ANODIST.png" width=70% height=70%>
 </p>
 
 #### Conditional simulation obtained through the proposed method and MS-CCSIM algorithm using different multi-scale, DWT levels and conditional hard data.
