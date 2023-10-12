@@ -6,7 +6,7 @@
   <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=90% height=90%>
 </p>
 
-## Results
+## Experiments
 #### -(a) The channel training image and (b) three unconditional realizations obtained using the proposed method (average CPU time: 6.52 seconds).
 
 <p align="center">
