@@ -1,4 +1,3 @@
-# CCWSIM
 ## CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Binary Characterization in Large-Scale Geological Domains
 
 #### Schematic illustration of the identification and reconstruction of best-matched patterns using the CCW score map in CCWSIM algorithm 
