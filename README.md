@@ -1,4 +1,7 @@
-## CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Binary Characterization in Large-Scale Geological Domains
+ ## <p align="center">CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Binary Characterization in Large-Scale Geological Domains
+ </p>
+
+
 <p align="justify"> We propose a new implementation of Multiple-point Simulation (MPS) that combines CCSIM with the Discrete Wavelet Transform (DWT) to rapidly simulate grids with millions of cells. Beyond its computational efficiency, the proposed methodology prioritizes the maintenance of spatial continuity and adherence to data conditioning principles to a considerable degree.
 </p>
 
