@@ -3,7 +3,7 @@
 #### Schematic illustration of the identification and reconstruction of best-matched patterns using the CCW score map in CCWSIM algorithm.
 
 <p align="center">
-  <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=100% height=100%>
+  <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/CCWSIM_Algorithm.png" width=90% height=90%>
 </p>
 
 ## Results
