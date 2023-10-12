@@ -28,7 +28,7 @@
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/GangDelatSim.png" width=90% height=90%>
 </p>
 
-#### Between and within-realization variability ratio for three resolution levels obtained from the proposed method and MS-CCSIM.
+#### Analysis of distance (ANODI): Between and within-realization variability ratio for three resolution levels obtained from the proposed method and MS-CCSIM.
 <p align="center">
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/ANODIST.png" width=90% height=90%>
 </p>
