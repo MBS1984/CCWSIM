@@ -3,7 +3,7 @@
 
 
 <p align="justify"> We propose a new implementation of Multiple-point Simulation (MPS) that combines CCSIM with the Discrete Wavelet Transform (DWT) to rapidly simulate grids with millions of cells. Beyond its computational efficiency, the proposed methodology prioritizes the maintenance of spatial continuity and adherence to data conditioning principles to a considerable degree. 
-<p align="justify">For swift testing and easy reproduction of the results, please clone the repository and execute the CCWSIM_runme.m file. Ensure that all required functions and MAT files are in the designated path.
+<p align="justify">For swift testing and easy reproduction of the results, please clone the repository and execute the __CCWSIM_runme.m__ file. Ensure that all required functions and MAT files are in the designated path.
 </p>
 
 #### -Schematic illustration of the identification and reconstruction of best-matched patterns using the CCW score map in CCWSIM algorithm.
