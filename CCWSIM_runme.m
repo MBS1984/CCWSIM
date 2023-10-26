@@ -6,7 +6,7 @@
 % Author: Mojtaba Bavandsavadkoohi
 % E-mail: Mojtaba.Bavand@inrs.ca
 % Institut National de la Recherche Scientifique
-% Centre Eau Terre Environnement, Québec, Québec, Canada
+% Centre Eau Terre Environnement, QuÃ©bec, QuÃ©bec, Canada
 %--------------------------------------------------------------------------
 % SIMULATION INPUT PARAMETERS:
 %
@@ -55,7 +55,7 @@ delete(progressBars);
 load('ti_channel.mat');
 
 % Load conditional hard data
-load('hd_channel_100.mat');
+load('hd_channel_400.mat');
 
 % Create a nan simulation grid for unconditional simulation
 % hd = nan(512);   
