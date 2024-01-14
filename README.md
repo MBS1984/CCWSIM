@@ -1,4 +1,4 @@
- ## <p align="center">CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Categorical Characterization in Large-Scale Geological Domains
+ ## <p align="center">CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Categorical Characterization of Large-Scale Geological Domains
  </p>
 
 
