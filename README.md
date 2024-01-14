@@ -62,7 +62,10 @@
 <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/DenseSim.png" width=90% height=90%>
 
 
-
+#### -(a) A Muti-facies TI, (b) The reproduction of facies proportion (%) in 100 realizations (solid lines) and TI (dotted lines) and (c) three conditional realizations of the muti-facies TI obtained using the proposed method.
+<p align="center">
+<img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/Cat_TI.png" width=90% height=90%>
+</p>
 
 
 
