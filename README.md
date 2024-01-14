@@ -6,6 +6,11 @@
 <p align="justify">For swift testing and easy reproduction of the results, please clone the repository and execute the "CCWSIM_runme.m" file. Ensure that all required functions and MAT files are in the designated path. For a comprehensive guide, please refer to the Help file.
 </p>
 
+#### -A schematic illustration of the proposed method workflow. (a-c) The SG with three distinct OR scenarios from previously simulated patterns.
+<p align="center">
+  <img src="https://github.com/MBS1984/CCWSIM/blob/main/Figures/TempMatch.png" width=90% height=90%>
+</p>
+
 
 #### -Schematic illustration of the identification and reconstruction of best-matched patterns using the CCW score map in CCWSIM algorithm.
 
