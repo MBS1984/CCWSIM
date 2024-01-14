@@ -8,7 +8,7 @@
 % Author: Mojtaba Bavandsavadkoohi
 % E-mail: Mojtaba.Bavand@inrs.ca
 % Institut National de la Recherche Scientifique
-% centre Eau Terre Environnement, Québec, Québec, Canada
+% centre Eau Terre Environnement, QuÃ©bec, QuÃ©bec, Canada
 %--------------------------------------------------------------------------
 % INPUT PARAMETERS:
 
@@ -77,7 +77,7 @@ fc = 0;                 % 0 means no facies matching otherwise proportion should
 mrp = 1;                % Markov random path
 T_vibration = 0;        % Multiple template size flag (1:on, 0:off)
 prop = 0.1;             % The proportion of TI which will be scanned to find the matched hard data.
-real_numb = 1;          % Nuber of realizations
+real_numb = 1;          % Number of realizations
 wavelet_level = 2;      % Wavelet level ( can be 1, 2 or 3)
 
 % Call the simulation function
