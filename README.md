@@ -1,9 +1,13 @@
  ## <p align="center">CCWSIM: An Efficient and Fast Wavelet-Based CCSIM for Categorical Characterization of Large-Scale Geological Domains
  </p>
 
-## Video Demo
 
-[Watch the video here]([[https://www.linkedin.com/video-url]
+https://github.com/user-attachments/assets/2a048c02-51ce-40d7-8a41-552cab8dfdf1
+
+
+
+
+
 
 <p align="justify"> We propose a new implementation of Multiple-point Simulation (MPS) that combines CCSIM with the Discrete Wavelet Transform (DWT) to rapidly simulate grids with millions of cells. Beyond its computational efficiency, the proposed methodology prioritizes the maintenance of spatial continuity and adherence to data conditioning principles to a considerable degree. 
 <p align="justify">For swift testing and easy reproduction of the results, please clone the repository and execute the "CCWSIM_runme.m" file. Ensure that all required functions and MAT files are in the designated path. For a comprehensive guide, please refer to the Help file.
